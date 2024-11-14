@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Test from './component/test';
+import Test from './component/timer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
